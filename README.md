@@ -20,5 +20,6 @@ Here (data_1) and (data_2) are labels the x and y labels accordingly.
 
 ## Output
 This code outputs a 2D graph as well as saves the image as a PNG file. The program asks you what do you want to save the 
-graph as, so here you input the name you'd like to give to the output, i.e., the graph image. 
+graph as, so here you input the name you'd like to give to the output, i.e., the graph image. <br />
 
+![sample](https://user-images.githubusercontent.com/67591327/189493267-7d1d0ab5-5205-4613-9056-b9b1e714486e.png)
