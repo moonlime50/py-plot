@@ -47,7 +47,9 @@ plt.tight_layout()
 
 
 #save
-plt.savefig("plot.png")
+pltname = str(input("What name do you want to save the file as? "))
+filenm = pltname + ".png"
+plt.savefig(filenm)
 
 #show graph
 plt.show()
